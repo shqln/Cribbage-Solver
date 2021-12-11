@@ -1,13 +1,13 @@
-===========================
-====COMP30020 Project 1====
-===========================
+
+### COMP30020 Project 1
+
 author: Shiqi (Daniel) Lin <sllin2@student.unimelb.edu.au>
 student id: 1081746
 purpose: select the best hand in a game of Cribbage
 
-===========================
-====Program Description====
-===========================
+
+### Program Description
+
 This program can be used to determine the Cribbage point value of a player's
 hand in the show stage in a game of Cribbage.
 It can also find the hand of 4 cards out of 5 or 6 cards dealt to the player
