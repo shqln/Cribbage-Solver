@@ -1,8 +1,8 @@
 
 ### COMP30020 Project 1
 
-author: Shiqi (Daniel) Lin <sllin2@student.unimelb.edu.au>
-student id: 1081746
+author: Shiqi (Daniel) Lin <sllin2@student.unimelb.edu.au> \
+student id: 1081746 \
 purpose: select the best hand in a game of Cribbage
 
 
